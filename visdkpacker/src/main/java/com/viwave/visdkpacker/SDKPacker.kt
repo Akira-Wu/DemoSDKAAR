@@ -7,7 +7,11 @@ object SDKPacker {
     private val viSDK = ViSDK()
 
     fun getName(): String {
-        return viSDK.getName()/*"SDKPacker"*/
+        return try {
+            viSDK.getName()
+        } catch (e: Exception) {
+            e.toString()
+        }
     }
 
 }
