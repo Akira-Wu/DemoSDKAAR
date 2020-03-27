@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DemoSDKAAR.iml" filepath="$PROJECT_DIR$/DemoSDKAAR.iml" group="DemoSDKAAR" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="DemoSDKAAR/app" />
-      <module fileurl="file://$PROJECT_DIR$/visdk-debug/visdk-debug.iml" filepath="$PROJECT_DIR$/visdk-debug/visdk-debug.iml" group="DemoSDKAAR/visdk-debug" />
+      <module fileurl="file://$PROJECT_DIR$/visdkpacker/visdkpacker.iml" filepath="$PROJECT_DIR$/visdkpacker/visdkpacker.iml" group="DemoSDKAAR/visdkpacker" />
     </modules>
   </component>
 </project>

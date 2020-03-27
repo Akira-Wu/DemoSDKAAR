@@ -1,2 +1,2 @@
 rootProject.name='DemoSDKAAR'
-include ':app', ':visdk-debug'
+include ':app', ':visdkpacker'
